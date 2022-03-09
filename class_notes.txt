@@ -1,0 +1,61 @@
+
+    - Reusable Portion of Complex UI Called as Component
+
+    - we can create the Components in two ways
+
+            1) Functional
+
+            2) Class
+
+    - Vendor provided Hooks for both Functional Level Components and Class Level Components
+
+    - These hooks are used to manage the life cycle of Components
+
+Functional Hooks
+****************
+
+    1) useState()
+
+    2) useEffect()
+
+    3) useRef()
+
+    4) useMemo()
+
+    5) useCallBack()
+
+    6) createContext(), useContext()
+
+    7) useReducer()
+
+    8) useSelector()
+
+    9) useDispatch()
+
+    10) useSuspense()
+    ---
+    ---
+    ---
+
+useState()
+**********
+    useState() hook, used to represent the state of Component
+    (store the Component data)
+
+
+
+
+useMemo
+Drawback
+useCallBack
+***********
+
+
+
+
+
+
+
+
+
+
