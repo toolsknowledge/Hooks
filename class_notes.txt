@@ -51,6 +51,42 @@ useCallBack
 ***********
 
 
+Single Page Applications
+
+as a react developer, we can create more than one Component
+
+loading one Component to another Component without refreshing the whole webpage called as "Single Page Applications"
+
+navigation of "Components" in Single Page Applications called as "Routing"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
